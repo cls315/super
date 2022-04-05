@@ -1,0 +1,15 @@
+.list-nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #D1F2EB;
+}
+
+img{
+    width: 500px;
+    height: 250px;
+}
